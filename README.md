@@ -1,1 +1,50 @@
-# georgeveitl
+# George Veitl
+
+Cybersecurity and Cloud Security professional with experience in Security Operations, Identity Governance, and Azure security environments.
+
+I focus on building secure cloud environments, improving identity governance, and developing practical detection and response strategies for modern enterprise security teams.
+
+---
+
+## Security Portfolio
+
+### Azure Security Automation
+Automation scripts for auditing Azure RBAC, identity permissions, and cloud security posture.
+
+### Security Incident Response Playbooks
+Incident response guides used to investigate phishing, compromised accounts, and suspicious authentication activity.
+
+### Identity Governance Labs
+Documentation and examples covering RBAC design, access reviews, and service account governance.
+
+### Threat Detection Rules
+Detection engineering examples mapped to MITRE ATT&CK demonstrating how SOC teams identify suspicious behavior.
+
+### Enterprise Security Architecture
+Architecture models including Zero Trust, IAM frameworks, and SOC monitoring pipelines.
+
+---
+
+## Security Focus Areas
+
+Cloud Security  
+Security Operations  
+Identity Governance  
+Threat Detection  
+Security Architecture
+
+---
+
+## Certifications
+
+Microsoft Azure Administrator Associate (AZ-104)  
+Microsoft Azure Fundamentals  
+Microsoft 365 Fundamentals
+
+---
+
+## Current Learning
+
+Detection engineering  
+Cloud identity security  
+Security automation# georgeveitl
