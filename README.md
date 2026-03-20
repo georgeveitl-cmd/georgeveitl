@@ -1,3 +1,9 @@
+## ⚠️ Usage Notice
+
+This repository contains proprietary security frameworks, SOPs, and runbooks developed by George Veitl.
+
+This content is for demonstration purposes only. 
+Unauthorized use, reproduction, or distribution is strictly prohibited.
 # George Veitl
 
 Cybersecurity and Cloud Security professional with experience in Security Operations, Identity Governance, and Azure security environments.
@@ -54,3 +60,7 @@ This repository is part of a broader enterprise security program that includes a
 
 Central governance framework:
 https://github.com/georgeveitl-cmd/enterprise-security-governance
+
+## 📌 Note to Reviewers
+
+If you'd like a walkthrough of these materials or a deeper discussion on how they apply in a real enterprise environment, feel free to connect with me on LinkedIn.
