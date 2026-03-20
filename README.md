@@ -48,3 +48,9 @@ Microsoft 365 Fundamentals
 Detection engineering  
 Cloud identity security  
 Security automation# georgeveitl
+## Governance Reference
+
+This repository is part of a broader enterprise security program that includes architecture, operations, and governance components.
+
+Central governance framework:
+https://github.com/georgeveitl-cmd/enterprise-security-governance
